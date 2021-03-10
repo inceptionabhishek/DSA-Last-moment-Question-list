@@ -1,0 +1,139 @@
+div {
+  height: 350px;
+  width: 100%;
+  background-color: #a3ddcb;
+}
+
+.h1, h1 {
+  font-family: 'Shadows Into Light', cursive;
+}
+
+.h1, h1 {
+}
+
+p {
+  font-weight: 900;
+}
+
+.fab.fa-stack-overflow {
+  height: 5px;
+  width: 10px;
+}
+
+.com {
+}
+
+.fa.fa-google {
+  height: 20px;
+}
+
+p {
+}
+
+.iconspara {
+  text-align: center;
+}
+
+.2nddiv {
+  background-color: white;
+  height: 200px;
+  width: 200px;
+}
+
+#edg {
+  height: 450px;
+  width: 100%;
+  background-color: white;
+}
+
+div {
+  background-color: white;
+}
+
+.card {
+  height: 100px;
+  width: 20px;
+  background-color: #00303f;
+}
+
+@media (min-width: 300px) {
+  .card {
+    height: 50px;
+  }
+}
+
+.h4, h4 {
+}
+
+.h4, h4 {
+}
+
+.h4, h4 {
+  text-align: center;
+}
+
+.h4, h4 {
+}
+
+#array-table {
+  background-color: rgb(244,240,241);
+}
+
+.table td, .table th {
+}
+
+a {
+}
+
+#linkedlist {
+  background-color: white;
+  height: 470px;
+  width: 100%;
+}
+
+#stack {
+  height: 470px;
+  background-color: white;
+  width: 100%;
+}
+
+#array-table-1 {
+  background-color: rgb(244,240,241);
+  width: 90%;
+  height: 400px;
+}
+
+#queue {
+  height: 350px;
+  width: 100%;
+  background-color: white;
+}
+
+.card {
+}
+
+#change {
+  width: 200px;
+}
+
+.btn:not(:disabled):not(.disabled) {
+  display: block;
+}
+
+.btn:not(:disabled):not(.disabled) {
+  max-width: 200px;
+  min-width: 40px;
+}
+
+#array-table {
+  max-width: 90%;
+  height: 400px;
+  align-self: center;
+  display: block;
+}
+
+#array-table-2 {
+  width: 90%;
+  height: 400px;
+}
+

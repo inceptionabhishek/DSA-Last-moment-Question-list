@@ -1,0 +1,7 @@
+@font-face {
+	font-family: 'shadows_into_lightregular';
+	src: url(../../assets/fonts/shadowsintolight-regular-webfont.woff2) format('woff2'),
+	url(../../assets/fonts/shadowsintolight-regular-webfont.woff) format('woff');
+	font-weight: normal;
+	font-style: normal;
+}
